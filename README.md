@@ -1,5 +1,5 @@
 # Lice-Selfbot
-Selfbot discord pratique sans token grab (en dev)
+N/A
 # Téléchargement
 Require NodeJS simplement
 # Utilisation 
